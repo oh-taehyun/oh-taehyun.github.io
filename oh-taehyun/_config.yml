@@ -18,11 +18,12 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: "GitHub Pages 따라하기"
+title: GitHub Pages 따라하기
 email: taehyunoh97@gmail.com
 description: "알파카를 닮은 예비 개발자의 블로그"
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://oh-taehyun.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://oh-taehyun.github.io/
+# the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: ...
 github_username: ...
 
