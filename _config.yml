@@ -3,13 +3,13 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url: https://oh-taehyun.github.io
+url:                 https://oh-taehyun.github.io/
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
 # with a leading `/` but no trailing `/`. Use the empty string '' otherwise.
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-# baseurl:               '/hydejack-starter-kit'
+ #baseurl:               ''
 
 
 # General settings
@@ -20,19 +20,18 @@ url: https://oh-taehyun.github.io
 lang:                  en
 
 # The title of your blog. Used in the sidebar and the browser tab.
-title:                 Starter Kit
+title:                 Give Thanks in All Circumstances
 
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Hydejack is a boutique Jekyll theme for hackers, nerds, and academics,
-  with a focus on personal sites that are meant to impress.
+  저의 기록을 채워나갈 새로운 블로그를 시작합니다! 2023. 8. 30.
 
 # A shorter description for the sidebar.
-tagline:               Change `tagline` in `_config.yml`
+tagline:               백엔드 개발자가 되기위해 공부중!
 
 # A list of keywords for your blog
-keywords:              []
+keywords:              [coding, git, blog, taehyun, web]
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
@@ -88,8 +87,8 @@ remote_theme: hydecorp/hydejack@v9
 # ----------------------------------------------------------------------------------------
  
 # Sidebar image and theme color of the site.
-accent_image:          /assets/img/sidebar-bg.jpg
-accent_color:          rgb(79,177,186)
+accent_image:          none #/assets/img/sidebar-bg.jpg
+accent_color:          rgb(68,53,68) # rgb(79,177,186)
 
 # This is used for the `theme-color` meta tag,
 # which changes the background color of the browser UI in certain browsers.
