@@ -3,7 +3,7 @@
 
 # Uncomment and set the URL of your site (with protocol, e.g. `https://`)
 # NOTE: You don't need to provide this property when hosting on GitHub Pages or Netlify.
-url:                 https://oh-taehyun.github.io/
+url:                 https://oh-taehyun.github.io
 
 # Uncomment and set the "base URL" of your site.
 # When your site is in a subdirectory, set to `/<name of directory>`,
@@ -31,7 +31,7 @@ description:           >
 tagline:               백엔드 개발자가 되기위해 공부중!
 
 # A list of keywords for your blog
-keywords:              [coding, git, blog, taehyun, web]
+keywords:              []
 
 # A (square) logo for your site.
 # If provided, it will be shown at the top of the sidebar.
