@@ -1,16 +1,15 @@
 ---
-title: "[Github blog] 깃허브 블로그 포스팅 방법"
-excerpt: "마크다운 문법을 이용해 md파일을 작성하여 Github blog에 포스팅 해보자"
-published: true
-writer: Taehyun Oh
-categories: 
-    - daily
-tags:
- - [Blog, jekyll, Github, Git, markdown]
+layout: post
+title: 첫 포스팅
+categories: [daily]
+tags: [Blog, jekyll, Github, Git]
+description: >
+  첫 포스팅을 해보자
+invert_sidebar: false
+---
 
- toc: true
- toc_sticky: true
+---
 
- date: 2023-09-01
- last_modified_at: 2023-09-01
- ---
+첫 포스팅 완료
+
+---
