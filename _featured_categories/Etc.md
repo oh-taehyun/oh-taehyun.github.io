@@ -3,7 +3,8 @@
 layout: list
 title: Etc
 slug: etc
-order: 8
+order: 6
+menu: true
 description: >
   This is a featured category, which have their own page.
   Check out `_featured_tags/example.md` to learn how to create your own.

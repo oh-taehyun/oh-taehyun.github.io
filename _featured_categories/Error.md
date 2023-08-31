@@ -1,9 +1,10 @@
 ---
 
 layout: list
-title: Travel
-slug: travel
-order: 7
+title: Error
+slug: error
+order: 4
+menu: true
 description: >
   This is a featured category, which have their own page.
   Check out `_featured_tags/example.md` to learn how to create your own.

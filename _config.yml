@@ -48,13 +48,18 @@ author:
 
 # Add links to the sidebar.
 menu:
+  - title:             About
+    url:               /about/
   - title:             Portfolio
     url:               /portfolio/
   - title:             Project
     url:               /project/
-  - title:             About
-    url:               /about/
-
+  - title:             Error
+    url:               /error/
+  - title:             Daily
+    url:               /daily/
+  - title:             Etc
+    url:               /etc/
 # Add links to the footer.
 # Typically you'll want to link to your cookie- or privacy policy (if appliable), etc..
 legal:
